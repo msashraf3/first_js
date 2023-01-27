@@ -11,3 +11,4 @@ var location="Dhaka";
 
 //boolean data types
 var isOk= true;
+var didYouEatYet=false;
